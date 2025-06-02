@@ -11,7 +11,6 @@ Topics I discuss:
 
 
 ### Who am I 🧑‍💻 
-**Experience:**
 - 3 years as **Pentester** at French DoD 🕵️ in a Red Team - FR
 - 2 years as **OSINT++** (Freelance) at Recon[.]Space 💻 - FR-NL
 - 3 years as **IT security auditor** (AI engineer specialization) at ING bank 💸 - NL
