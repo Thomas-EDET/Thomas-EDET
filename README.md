@@ -10,7 +10,7 @@ I'm going **all in**: building, learning, and growing my skills every day.
 
 If you're into Web3, security, or just want to follow a builder's journey from the ground up — you're welcome to join me!
 
-Experience:
+**Experience:**
 - 3 years as **Pentester** at French DoD in Red Team (Advanced Persistant Threat like) - FR
 - 2 years as **Freelance/Dev** at Recon[.]Space - FR
 - 3 years as **IT security auditor** at ING bank - NL
