@@ -14,4 +14,4 @@ Topics I discuss:
 - 3 years as **Pentester** at French DoD 🕵️ in a Red Team - FR
 - 2 years as **OSINT++** (Freelance) at Recon[.]Space 💻 - FR-NL
 - 3 years as **IT security auditor** (AI engineer specialization) at ING bank 💸 - NL
-- 1st year as **Pentest Coordinator** at Bank Julius Bar - CH
+- New role as **Pentest Coordinator** at Bank Julius Bar - CH 🇨🇭
